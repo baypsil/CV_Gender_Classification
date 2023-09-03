@@ -1,0 +1,8 @@
+matplotlib
+numpy
+Pillow
+mediapipe
+opencv-python
+cvzone
+torch
+torchvision
